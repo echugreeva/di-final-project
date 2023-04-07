@@ -9,6 +9,7 @@
     "@devexpress/dx-react-core": "3.0.4",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.10.13",
     "@mui/x-date-pickers": "^5.0.9",
     "@testing-library/jest-dom": "^5.16.5",

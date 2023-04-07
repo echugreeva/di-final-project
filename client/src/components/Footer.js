@@ -3,7 +3,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Paper from '@mui/material/Paper'
-import RuleIcon from '@mui/icons-material/Rule';
+// import RuleIcon from '@mui/icons-material/Rule';
 
 const Footer =(props)=> {
     return (
