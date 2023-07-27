@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3030/",
+  "proxy": "http://localhost:3000/",
   "dependencies": {
     "@devexpress/dx-react-chart": "3.0.4",
     "@devexpress/dx-react-chart-material-ui": "3.0.4",
